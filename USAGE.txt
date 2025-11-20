@@ -1,0 +1,4 @@
+/path/to/RET_run_asymmetry.sh \
+  -S /path/to/rnaseq_bam/SAMPLE_Aligned.sortedByCoord.out.bam \
+  -G YOUR_GENE_NAME \ #RET
+  -O /path/to/output_dir
